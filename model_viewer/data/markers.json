@@ -1,0 +1,23 @@
+[
+  {
+    "id": "marker-1",
+    "name": "IIT Bombay",
+    "x": -0.62,
+    "y": 0.1,
+    "z": 0.16
+  },
+  {
+    "id": "marker-2",
+    "name": "Still concidering",
+    "x": -0.3,
+    "y": 0.1,
+    "z": 0.6
+  },
+  {
+    "id": "marker-3",
+    "name": "ICARS",
+    "x": -0.45,
+    "y": 0.1,
+    "z": -0.3
+  }
+]
