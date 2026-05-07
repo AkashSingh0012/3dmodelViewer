@@ -8,16 +8,30 @@
   },
   {
     "id": "marker-2",
-    "name": "Still concidering",
-    "x": -0.3,
+    "name": "DST-ICRISAT Centre of Excellence on Climate Change Research for Plant Protection",
+    "x": -0.27,
     "y": 0.1,
-    "z": 0.6
+    "z": 0.25
   },
   {
     "id": "marker-3",
     "name": "ICARS",
-    "x": -0.45,
+    "x": -0.3,
     "y": 0.1,
-    "z": -0.3
-  }
+    "z": -0.4
+  },
+  {
+    "id": "marker-4",
+    "name": "CENTRE FOR DISASTER MANAGEMENT STUDIES",
+    "x": -0.36,
+    "y": 0.1,
+    "z": -0.41 
+   },
+   {
+    "id": "marker-5",
+    "name": "Centre of Excellence on Climate and Disaster Resilient Agriculture",
+    "x": -0.25,
+    "y": 0.1,
+    "z": 0.68
+   }
 ]
